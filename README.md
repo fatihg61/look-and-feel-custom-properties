@@ -1,8 +1,15 @@
-> _Fork_ deze deeltaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Loon and feel Custom-Properties
 
-# Naam deeltaak
+
+Tijdens deze deeltaak gaan we werken met custom properties!
+
+```
+:root {
+  --purplectc: #545aa1;
+  --white: #ffffff;
+  --menublue: #0050C2;
+}
+```
 
 
 ## Licentie
